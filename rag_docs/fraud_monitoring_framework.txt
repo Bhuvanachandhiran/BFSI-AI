@@ -1,0 +1,27 @@
+FRAUD MONITORING AND RISK CONTROL REGULATORY FRAMEWORK
+
+1. Definition and Scope
+
+The Fraud Monitoring and Risk Control Regulatory Framework governs the detection, reporting, and mitigation of fraudulent transactions. The Fraud Monitoring and Risk Control Regulatory Framework ensures alignment with prudential norms and regulatory compliance standards.
+
+2. Regulatory Framework
+
+Under the Fraud Monitoring and Risk Control Regulatory Framework, institutions must deploy risk-based monitoring systems to detect suspicious patterns. Regulatory compliance requires timely reporting of fraud incidents to supervisory authorities.
+
+3. Detection and Control Mechanisms
+
+The Fraud Monitoring and Risk Control Regulatory Framework includes transaction monitoring systems, anomaly detection algorithms, and internal audit reviews. Accounts flagged for suspicious activity may be temporarily restricted pending investigation.
+
+4. Compliance and Reporting Requirements
+
+The Fraud Monitoring and Risk Control Regulatory Framework mandates documentation of fraud cases, recovery actions, and customer liability assessment in accordance with regulatory directives.
+
+Supervisory reporting ensures transparency and accountability within the financial system.
+
+5. Risk Management Implications
+
+The Fraud Monitoring and Risk Control Regulatory Framework supports operational resilience. Institutions must integrate fraud analytics into risk management models to minimize financial and reputational loss.
+
+6. Supervisory Oversight
+
+Regulatory authorities conduct periodic inspections to ensure adherence to the Fraud Monitoring and Risk Control Regulatory Framework. Non-compliance may result in supervisory action.

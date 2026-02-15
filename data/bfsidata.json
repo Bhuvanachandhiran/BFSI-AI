@@ -1,0 +1,980 @@
+[
+{
+"instruction": "Explain the general eligibility criteria for a personal loan.",
+"input": "",
+"output": "Loan eligibility is determined based on several factors including the applicant's age, income stability, employment history, and credit profile. All approvals are subject to the bank's internal credit policy and the submission of required documentation as per applicable regulations."
+},
+{
+"instruction": "What documents are required for a home loan application?",
+"input": "",
+"output": "Standard documentation typically includes identity proof, address proof, income tax returns, salary slips or business financial statements, and property-related documents. The exact list may vary based on the applicant's profile and is subject to bank policy."
+},
+{
+"instruction": "I want to check the status of my loan application.",
+"input": "",
+"output": "You can track your application status through our official mobile banking application or web portal using your unique reference number. Alternatively, you may contact your relationship manager for updates as per the bank's processing timelines."
+},
+{
+"instruction": "How long does it take to process a car loan?",
+"input": "",
+"output": "The processing time for a vehicle loan depends on the completion of documentation, verification procedures, and internal credit appraisals. We endeavor to process applications within a reasonable timeframe as per bank policy."
+},
+{
+"instruction": "What is the procedure for loan foreclosure?",
+"input": "",
+"output": "To initiate foreclosure, the borrower must submit a formal written request at the home branch. Foreclosure is subject to the terms and conditions outlined in the loan agreement and applicable regulatory guidelines regarding prepayment charges."
+},
+{
+"instruction": "Can I make a prepayment on my loan?",
+"input": "",
+"output": "Yes, prepayments are permitted as per the terms of your loan agreement. Please note that certain charges may apply depending on the type of loan and the interest rate structure, in accordance with applicable regulations."
+},
+{
+"instruction": "Why was my loan application rejected?",
+"output": "Loan applications may be declined due to various factors such as credit score, debt-to-income ratio, or non-fulfillment of specific eligibility criteria. A formal communication regarding the specific grounds for rejection will be provided as per bank policy."
+},
+{
+"instruction": "Define Equated Monthly Installment (EMI).",
+"input": "",
+"output": "An EMI is a fixed payment amount made by a borrower to a lender at a specified date each calendar month. It consists of both principal and interest components, designed to retire the loan over a predetermined tenure."
+},
+{
+"instruction": "Explain how an EMI is calculated.",
+"input": "",
+"output": "The EMI calculation is based on the principal amount, the applicable interest rate, and the loan tenure. It is generally computed using a standard mathematical formula that ensures the loan is fully repaid by the end of the term."
+},
+{
+"instruction": "What is the reducing balance method in interest calculation?",
+"input": "",
+"output": "Under the reducing balance method, interest is calculated on the outstanding principal amount remaining at the end of each period. As the principal is repaid through EMIs, the interest component decreases over time."
+},
+{
+"instruction": "How can I obtain my EMI repayment schedule?",
+"input": "",
+"output": "The repayment schedule is provided at the time of loan disbursement. You can also download a digital copy through the internet banking portal or request one from your branch as per bank policy."
+},
+{
+"instruction": "What happens if I miss an EMI payment?",
+"input": "",
+"output": "Missing an EMI payment may result in penal interest charges and can adversely affect your credit score. It is recommended to maintain sufficient funds in the linked account to ensure timely repayment as per the loan agreement."
+},
+{
+"instruction": "What is the difference between fixed and floating interest rates?",
+"input": "",
+"output": "A fixed interest rate remains constant throughout the tenure or for a specific period, while a floating rate is linked to a benchmark and may change periodically based on market fluctuations and regulatory revisions."
+},
+{
+"instruction": "When is the interest rate on my loan revised?",
+"input": "",
+"output": "For floating rate loans, revisions occur periodically based on changes in the underlying benchmark rate. These adjustments are made in accordance with the bank's internal policies and regulatory directives."
+},
+{
+"instruction": "Why was penal interest charged on my account?",
+"input": "",
+"output": "Penal interest is levied in the event of a default or delay in payment of dues. This charge is applied as per the terms and conditions agreed upon at the time of loan sanctioning."
+},
+{
+"instruction": "My transaction failed but the amount was debited.",
+"input": "",
+"output": "In case of a failed transaction where funds are debited, the amount is typically reversed automatically within a specified number of working days. If the refund is not received, you may lodge a formal dispute for resolution."
+},
+{
+"instruction": "What is the timeline for a refund on a canceled transaction?",
+"input": "",
+"output": "Refund timelines are governed by the merchant's policy and the processing cycles of the involved financial institutions. Generally, it takes a few business days for the credit to reflect in your account."
+},
+{
+"instruction": "I have been charged twice for the same transaction.",
+"input": "",
+"output": "If a duplicate payment has occurred, please provide the transaction details to our support team. We will initiate a reconciliation process and facilitate a reversal as per applicable bank policy."
+},
+{
+"instruction": "How do I raise a dispute for an unauthorized transaction?",
+"input": "",
+"output": "Unauthorized transactions should be reported immediately through our 24/7 customer service helpline or the mobile app. The bank will investigate the matter in accordance with the regulatory framework for customer liability."
+},
+{
+"instruction": "What is the process for updating my KYC details?",
+"input": "",
+"output": "KYC updates can be performed by submitting valid identity and address proofs at your home branch or through our digital KYC platform, subject to eligibility and verification requirements."
+},
+{
+"instruction": "How can I change my registered communication address?",
+"input": "",
+"output": "You may update your address by submitting a request along with a valid proof of residence through internet banking or by visiting a branch. The update is subject to verification as per bank policy."
+},
+{
+"instruction": "How do I contact customer support for an urgent issue?",
+"input": "",
+"output": "You may reach our customer support team via the toll-free number provided on our official website, through the in-app chat feature, or by visiting the nearest branch during business hours."
+},
+{
+"instruction": "What is the grievance redressal mechanism?",
+"input": "",
+"output": "The bank follows a structured grievance redressal process. If your query is not resolved at the initial level, you may escalate the matter to the Nodal Officer as per the bank's internal policy."
+},
+{
+"instruction": "What is the weather like today?",
+"input": "",
+"output": "I am an AI assistant specialized in banking and financial services. I do not have access to real-time weather information. Please consult a weather service for such queries."
+},
+{
+"instruction": "Can you tell me the password for my account?",
+"input": "",
+"output": "For security reasons, I do not have access to your personal credentials or account passwords. Please use the 'Forgot Password' option on the login page to reset your credentials securely."
+},
+{
+"instruction": "I suspect someone is trying to access my account. What should I do?",
+"input": "",
+"output": "If you suspect fraudulent activity, please block your digital access immediately through the mobile app and report the incident to our dedicated fraud monitoring cell for further action."
+},
+{
+"instruction": "Can you provide me with a list of all your customers?",
+"input": "",
+"output": "The bank maintains strict confidentiality regarding customer data. We do not share personal or account-related information with unauthorized parties in accordance with data privacy regulations."
+},
+{
+"instruction": "Is a guarantor mandatory for a business loan?",
+"input": "",
+"output": "The requirement for a guarantor depends on the loan amount, the nature of the business, and the applicant's credit profile. This is determined on a case-by-case basis as per bank policy."
+},
+{
+"instruction": "What are the consequences of frequent loan inquiries on my credit score?",
+"input": "",
+"output": "Multiple hard inquiries for credit in a short period may impact your credit score. It is advisable to apply for credit only when necessary, as per general financial prudence and regulatory guidelines."
+},
+{
+"instruction": "How is the interest rate for a personal loan decided?",
+"input": "",
+"output": "Interest rates are determined based on several factors, including the borrower's credit score, income level, and prevailing market conditions, subject to the bank's internal pricing policy."
+},
+{
+"instruction": "What is a 'Moratorium Period' in education loans?",
+"input": "",
+"output": "A moratorium period is a duration during which the borrower is not required to make repayments. In education loans, this typically covers the course duration plus a grace period, as per bank policy."
+},
+{
+"instruction": "Can I switch from a floating rate to a fixed rate?",
+"input": "",
+"output": "Yes, conversion from a floating rate to a fixed rate is generally permitted upon payment of a conversion fee and fulfillment of specific terms and conditions as per the loan agreement."
+},
+{
+"instruction": "What are the charges for a cheque bounce?",
+"input": "",
+"output": "Cheque return charges are levied when a cheque is dishonored due to insufficient funds or other technical reasons. The specific charges are applied as per the bank's schedule of service charges."
+},
+{
+"instruction": "How do I register for internet banking?",
+"input": "",
+"output": "You can register for internet banking through our official website using your debit card details and registered mobile number, or by visiting a branch to submit a registration form."
+},
+{
+"instruction": "What is the daily withdrawal limit for my debit card?",
+"input": "",
+"output": "Daily withdrawal limits vary based on the type of debit card held. You can view and manage your limits through the mobile banking app or by contacting your branch as per bank policy."
+},
+{
+"instruction": "Can I open a bank account online?",
+"input": "",
+"output": "Yes, digital account opening is available through our website or mobile app. This process typically involves a video-based KYC verification as per applicable regulatory guidelines."
+},
+{
+"instruction": "What documents are valid for address proof?",
+"input": "",
+"output": "Valid address proofs include documents such as a passport, voter ID, driving license, or utility bills, provided they meet the bank's verification requirements and regulatory standards."
+},
+{
+"instruction": "How do I close my savings account?",
+"input": "",
+"output": "To close a savings account, you must visit your home branch, submit an account closure form, and return any unused cheque leaves and debit cards as per the bank's standard procedure."
+},
+{
+"instruction": "What is the procedure to add a nominee to my account?",
+"input": "",
+"output": "A nominee can be added by submitting a nomination form at your branch or through the internet banking portal. This ensures the smooth transfer of funds in the event of an unforeseen exigency."
+},
+{
+"instruction": "Can I transfer my loan from another bank?",
+"input": "",
+"output": "Yes, loan balance transfers are possible subject to eligibility, credit appraisal, and the fulfillment of specific documentation requirements as per the bank's takeover policy."
+},
+{
+"instruction": "What is the maximum tenure for a home loan?",
+"input": "",
+"output": "The maximum tenure for a home loan is determined by factors such as the applicant's age at maturity and the type of property, subject to a maximum limit as per bank policy."
+},
+{
+"instruction": "How is interest calculated for a savings account?",
+"input": "",
+"output": "Interest on savings accounts is calculated on a daily balance basis and is typically credited to the account at quarterly intervals, as per applicable regulatory directives."
+},
+{
+"instruction": "What is the 'Minimum Average Balance' requirement?",
+"input": "",
+"output": "The Minimum Average Balance (MAB) is the average daily balance that a customer is required to maintain in their account over a month or quarter, as per the specific account variant's terms."
+},
+{
+"instruction": "What happens if I don't maintain the minimum balance?",
+"input": "",
+"output": "Non-maintenance of the required minimum average balance may attract service charges as per the bank's schedule of charges and applicable regulatory guidelines."
+},
+{
+"instruction": "How do I block a lost credit card?",
+"input": "",
+"output": "You can block your credit card immediately through the mobile app, internet banking, or by calling our dedicated 24-hour helpline to prevent any unauthorized transactions."
+},
+{
+"instruction": "What are the benefits of a corporate salary account?",
+"input": "",
+"output": "Corporate salary accounts often come with specialized features such as zero balance requirements, preferential interest rates on loans, and additional insurance covers, subject to eligibility."
+},
+{
+"instruction": "Can I avail of a loan against my fixed deposit?",
+"input": "",
+"output": "Yes, the bank offers credit facilities against fixed deposits. The loan amount and interest rate are determined as a percentage of the deposit value, as per internal policy."
+},
+{
+"instruction": "What is the process for a name change in bank records?",
+"input": "",
+"output": "For a name change, you must provide legal documentation such as a marriage certificate or a gazette notification, along with a revised identity proof, to your home branch for verification."
+},
+{
+"instruction": "What is a 'Dormant Account'?",
+"input": "",
+"output": "An account is classified as dormant if there have been no customer-induced transactions for a period specified by regulatory guidelines. To reactivate it, fresh KYC documents may be required."
+},
+{
+"instruction": "How do I apply for a credit limit increase?",
+"input": "",
+"output": "Credit limit increases are offered based on your repayment history, income updates, and internal credit assessment. You may check your eligibility through the mobile app or visit your branch."
+},
+{
+"instruction": "What is the Banking Ombudsman scheme?",
+"input": "",
+"output": "The Banking Ombudsman scheme is a regulatory mechanism for resolving customer complaints regarding deficiencies in banking services that have not been adequately addressed by the bank."
+},
+{
+"instruction": "Can I have multiple savings accounts in the same bank?",
+"input": "",
+"output": "Yes, customers can hold multiple accounts for different purposes, provided they meet the specific eligibility and documentation requirements for each account type as per bank policy."
+},
+{
+"instruction": "What is an overdraft facility?",
+"input": "",
+"output": "An overdraft is a credit facility that allows an account holder to withdraw funds exceeding the available balance up to a specified limit, subject to approval and applicable interest charges."
+},
+{
+"instruction": "How do I update my mobile number in bank records?",
+"input": "",
+"output": "A mobile number update usually requires a physical application at a branch or an update via an ATM for security reasons, following the bank's verification protocols."
+},
+{
+"instruction": "What are the rules for premature withdrawal of a Fixed Deposit?",
+"input": "",
+"output": "Premature withdrawal of a fixed deposit is generally allowed but may be subject to a penalty on the applicable interest rate for the duration the deposit was held, as per bank policy."
+},
+{
+"instruction": "Explain the concept of 'CIBIL Score'.",
+"input": "",
+"output": "A CIBIL score is a three-digit numeric summary of your credit history and reflects your creditworthiness. It is used by lenders to assess the risk of lending as per standard industry practices."
+},
+{
+"instruction": "How do I claim funds from a deceased person's account?",
+"input": "",
+"output": "Claims can be made by the nominee or legal heirs by submitting the death certificate and requisite claim forms. The process follows specific legal and bank guidelines regarding deceased claims."
+},
+{
+"instruction": "What is the difference between a debit card and a credit card?",
+"input": "",
+"output": "A debit card deducts funds directly from your bank account, while a credit card allows you to borrow funds up to a certain limit for purchases, which must be repaid later as per the billing cycle."
+},
+{
+"instruction": "What is the 'Full and Final' settlement in loans?",
+"input": "",
+"output": "Full and final settlement refers to the total payment of all outstanding dues, including principal, interest, and other charges, to officially close the loan account as per the agreement."
+},
+{
+"instruction": "Can I get a loan if I am self-employed?",
+"input": "",
+"output": "Yes, self-employed individuals can apply for loans. Eligibility is assessed based on business vintage, financial statements, and credit history, subject to the bank's lending criteria."
+},
+{
+"instruction": "What is the 'No Objection Certificate' (NOC) for a loan?",
+"input": "",
+"output": "An NOC is a legal document issued by the bank upon the full repayment of a loan, stating that there are no further dues and the bank has no claim over the collateral, if any."
+},
+{
+"instruction": "How do I enable international transactions on my card?",
+"input": "",
+"output": "International transactions can be enabled or disabled through the 'Manage Cards' section in the mobile banking app or internet banking portal, as per regulatory safety guidelines."
+},
+{
+"instruction": "What are the common reasons for transaction declines?",
+"input": "",
+"output": "Transactions may be declined due to insufficient funds, incorrect PIN entry, expired card, reaching the daily limit, or security blocks placed for suspicious activity as per bank policy."
+},
+{
+"instruction": "How can I apply for a Locker facility?",
+"input": "",
+"output": "Locker facilities are available at select branches and are allotted based on availability. Customers are required to sign a locker agreement and pay the applicable annual rentals."
+},
+{
+"instruction": "What is the process for re-KYC?",
+"input": "",
+"output": "Re-KYC involves the periodic updating of customer information. It can be completed by submitting the necessary self-attested documents digitally or at a branch, as per regulatory requirements."
+},
+{
+"instruction": "Can I change the tenure of my existing loan?",
+"input": "",
+"output": "Tenure modification is subject to the bank's approval and may require a reassessment of your repayment capacity and the terms of the loan agreement."
+},
+{
+"instruction": "What is an 'Unsecured Loan'?",
+"input": "",
+"output": "An unsecured loan is a credit facility provided without any collateral. Approval is primarily based on the borrower's creditworthiness and income stability as per bank policy."
+},
+{
+"instruction": "How do I report a grievance regarding a bank employee?",
+"input": "",
+"output": "You can report such concerns through the official complaint portal on our website or by writing to the Branch Manager. The matter will be handled as per the internal code of conduct."
+},
+{
+"instruction": "What is the 'Auto-Sweep' facility?",
+"input": "",
+"output": "The auto-sweep facility automatically transfers surplus funds from a savings account to a fixed deposit to earn higher interest, while ensuring liquidity for withdrawals, subject to eligibility."
+},
+{
+"instruction": "How do I get my account statement for the last financial year?",
+"input": "",
+"output": "Account statements can be generated through internet banking, the mobile app, or by visiting a branch. You can choose the specific date range for the financial year required."
+},
+{
+"instruction": "What is the 'Positive Pay System' for cheques?",
+"input": "",
+"output": "Positive Pay is a security measure where the issuer of a high-value cheque provides essential details to the bank for verification before the cheque is presented for clearing."
+},
+{
+"instruction": "What is the purpose of an IFSC code?",
+"input": "",
+"output": "The Indian Financial System Code (IFSC) is a unique alphanumeric code used to identify specific bank branches for electronic fund transfer systems like NEFT and RTGS."
+},
+{
+"instruction": "How do I deactivate my mobile banking account?",
+"input": "",
+"output": "You can deactivate mobile banking by using the settings within the app or by submitting a written request at your branch as per the bank's security protocols."
+},
+{
+"instruction": "Can I link my Aadhaar card to my bank account online?",
+"input": "",
+"output": "Yes, Aadhaar linking can be done through the bank's website or mobile app, subject to successful authentication and as per prevailing regulatory guidelines."
+},
+{
+"instruction": "What is the 'Cooling-off Period' after adding a new beneficiary?",
+"input": "",
+"output": "A cooling-off period is a temporary duration during which fund transfers to a newly added beneficiary are restricted or limited to a certain amount for security purposes."
+},
+{
+"instruction": "What are the rules for 'Cash Deposit' at ATMs?",
+"input": "",
+"output": "Cash deposits can be made at designated Cash Deposit Machines (CDMs). Limits for such deposits are set according to account type and regulatory norms regarding cash transactions."
+},
+{
+"instruction": "How do I apply for a debit card replacement?",
+"input": "",
+"output": "A replacement card can be requested through the mobile app or by visiting your branch. Applicable charges for card replacement will be debited from your account."
+},
+{
+"instruction": "What is the 'MCLR' in loan pricing?",
+"input": "",
+"output": "The Marginal Cost of Funds Based Lending Rate (MCLR) is an internal benchmark used by banks to determine the minimum interest rate for various types of loans, as per regulatory mandates."
+},
+{
+"instruction": "How can I stop payment of a cheque?",
+"input": "",
+"output": "Stop payment requests can be initiated through internet banking or by contacting your branch. This service is subject to applicable charges and the cheque not being already processed."
+},
+{
+"instruction": "What is 'Form 15G/15H' and how do I submit it?",
+"input": "",
+"output": "These forms are self-declarations to prevent TDS on interest income if your total income is below the taxable limit. They can be submitted online or at any branch at the start of the financial year."
+},
+{
+"instruction": "Can I use my debit card for online shopping?",
+"input": "",
+"output": "Yes, debit cards can be used for online transactions. Ensure that online usage is enabled in your card settings and use the secure OTP for transaction authentication."
+},
+{
+"instruction": "What is the procedure for an NRI account opening?",
+"input": "",
+"output": "NRIs can open NRE, NRO, or FCNR accounts by submitting the prescribed application form along with notarized copies of their passport, visa, and overseas address proof as per RBI guidelines."
+},
+{
+"instruction": "How do I renew my Fixed Deposit?",
+"input": "",
+"output": "Fixed deposits can be renewed automatically if the 'Auto-Renewal' instruction was given at the time of opening. Alternatively, you can renew it via the mobile app or at the branch upon maturity."
+},
+{
+"instruction": "What is a 'Standing Instruction'?",
+"input": "",
+"output": "A standing instruction is a service where the bank is authorized to automatically transfer a fixed amount from your account to another account or for bill payments at regular intervals."
+},
+{
+"instruction": "What should I do if I find a discrepancy in my account statement?",
+"input": "",
+"output": "Discrepancies should be reported to the bank immediately with supporting evidence. The bank will investigate and rectify any errors found as per standard operating procedures."
+},
+{
+"instruction": "Are there any charges for using other bank ATMs?",
+"input": "",
+"output": "A limited number of transactions at other bank ATMs are usually free of charge each month. Beyond this limit, transactions attract charges as per regulatory norms and bank policy."
+},
+{
+"instruction": "What is a 'Pre-approved Loan'?",
+"input": "",
+"output": "Pre-approved loans are offers extended to existing customers based on their clean credit history and transaction patterns. These are subject to final eligibility checks and documentation."
+},
+{
+"instruction": "How is the interest on a Recurring Deposit (RD) calculated?",
+"input": "",
+"output": "Interest on an RD is compounded quarterly and calculated based on the monthly installments paid, at the rate applicable at the time of opening the account."
+},
+{
+"instruction": "What is 'Two-Factor Authentication' (2FA)?",
+"input": "",
+"output": "2FA is a security process that requires two different forms of identification before granting access to an account, such as a password followed by an OTP sent to your registered mobile."
+},
+{
+"instruction": "Can I get a home loan for property renovation?",
+"input": "",
+"output": "Yes, home improvement or renovation loans are available. The eligibility and loan amount are determined based on the estimated cost of renovation and the borrower's repayment capacity."
+},
+{
+"instruction": "What is the 'Base Rate'?",
+"input": "",
+"output": "The Base Rate was the minimum interest rate below which banks were not permitted to lend, except in specific cases. It has largely been replaced by MCLR and external benchmarks."
+},
+{
+"instruction": "How do I register for e-statements?",
+"input": "",
+"output": "You can subscribe to e-statements via internet banking or the mobile app. Once registered, statements will be sent to your registered email address periodically."
+},
+{
+"instruction": "What is 'Phishing' and how can I stay safe?",
+"input": "",
+"output": "Phishing is a fraudulent attempt to obtain sensitive information. To stay safe, never share your OTP, PIN, or passwords, and do not click on suspicious links in emails or messages."
+},
+{
+"instruction": "Can I change my loan EMI date?",
+"input": "",
+"output": "Requests for changing the EMI cycle are subject to the bank's internal policy and may involve certain administrative charges and adjustments in interest."
+},
+{
+"instruction": "What is the 'Bulk Deposit' threshold?",
+"input": "",
+"output": "Bulk deposits refer to single rupee term deposits above a specific threshold defined by the regulator. Interest rates for such deposits may differ from retail deposit rates."
+},
+{
+"instruction": "How do I update my email ID in the bank's records?",
+"input": "",
+"output": "You can update your email ID through the personal profile section in internet banking or by submitting a written request at your home branch."
+},
+{
+"instruction": "What is the 'External Benchmark Linked Rate' (EBLR)?",
+"input": "",
+"output": "EBLR is a lending rate linked to external benchmarks like the Repo Rate. It ensures faster transmission of monetary policy changes to borrowers as per regulatory directives."
+},
+{
+"instruction": "What are the rules for 'Inoperative Accounts'?",
+"input": "",
+"output": "An account is treated as inoperative if there are no transactions for over two years. To make it active again, you must submit a request along with valid KYC documents."
+},
+{
+"instruction": "What is a 'Virtual Debit Card'?",
+"input": "",
+"output": "A virtual debit card is a digital-only card available in your mobile banking app for secure online transactions. It has its own card number, CVV, and expiry date."
+},
+{
+"instruction": "Can I link my credit card to UPI?",
+"input": "",
+"output": "Linking credit cards to UPI is currently permitted for specific card networks as per regulatory guidelines. You can check eligibility within your UPI-enabled app."
+},
+{
+"instruction": "What is 'Tokenization' of cards?",
+"input": "",
+"output": "Tokenization replaces your actual card details with a unique 'token' for online transactions, enhancing security by not sharing sensitive card information with merchants."
+},
+{
+"instruction": "How do I close a Fixed Deposit before maturity?",
+"input": "",
+"output": "You can close an FD prematurely through internet banking or by visiting a branch. Please note that interest will be paid as per the bank's policy for premature withdrawals."
+},
+{
+"instruction": "What is 'Balance Transfer' in credit cards?",
+"input": "",
+"output": "Balance transfer allows you to move the outstanding balance from one credit card to another, usually at a lower interest rate for a specific period, subject to eligibility."
+},
+{
+"instruction": "What documents are needed for a personal loan if I am a salaried employee?",
+"input": "",
+"output": "Salaried individuals typically need to provide recent salary slips, Form 16, bank statements for the last six months, and KYC documents as per bank policy."
+},
+{
+"instruction": "How do I get an interest certificate for my loan?",
+"input": "",
+"output": "Interest certificates for tax purposes can be downloaded from the internet banking portal or requested at any branch after the end of the financial year."
+},
+{
+"instruction": "What is the 'Credit Utilization Ratio'?",
+"input": "",
+"output": "This ratio represents the amount of credit you are using compared to your total available credit limit. Maintaining a low ratio is generally considered good for your credit score."
+},
+{
+"instruction": "What are 'Merchant Discount Rate' (MDR) charges?",
+"input": "",
+"output": "MDR is the fee charged to a merchant by a bank for accepting payments via debit or credit cards. These rates are governed by regulatory guidelines."
+},
+{
+"instruction": "How can I block my UPI ID?",
+"input": "",
+"output": "You can block or disable your UPI ID through the 'Settings' or 'Security' section of your UPI app, or by contacting the bank's customer service in case of mobile loss."
+},
+{
+"instruction": "What is a 'Small Account' in KYC terms?",
+"input": "",
+"output": "A small account is a type of savings account with simplified KYC requirements, intended for individuals who do not have full documentation, subject to specific balance and transaction limits."
+},
+{
+"instruction": "How do I avail of a 'Top-up Loan' on my existing home loan?",
+"input": "",
+"output": "Top-up loans are available to existing home loan customers based on their repayment track record and the market value of the property, subject to eligibility and bank policy."
+},
+{
+"instruction": "What is the difference between NEFT and RTGS?",
+"input": "",
+"output": "NEFT processes transactions in batches, while RTGS provides real-time settlement for high-value transactions. Both are subject to specific operating hours and regulatory guidelines."
+},
+{
+"instruction": "What is the 'Bharat Bill Payment System' (BBPS)?",
+"input": "",
+"output": "BBPS is an integrated ecosystem that offers interoperable bill payment services to customers through multiple channels like internet banking and mobile apps."
+},
+{
+"instruction": "Can I change my nominee after account opening?",
+"input": "",
+"output": "Yes, you can modify or change your nomination at any time by submitting the relevant nomination form to the bank as per applicable rules."
+},
+{
+"instruction": "What is 'Cash Credit' facility?",
+"input": "",
+"output": "Cash Credit is a working capital facility for businesses to meet day-to-day requirements, where interest is charged only on the amount utilized within the sanctioned limit."
+},
+{
+"instruction": "How do I report a lost cheque book?",
+"input": "",
+"output": "A lost cheque book should be reported immediately to the branch or through customer service to place a stop-payment on all unused leaves for security."
+},
+{
+"instruction": "What is the 'Validity' of a cheque?",
+"input": "",
+"output": "As per current regulatory guidelines, a cheque is valid for a period of three months from the date of issue mentioned on the instrument."
+},
+{
+"instruction": "What is 'Unified Payments Interface' (UPI)?",
+"input": "",
+"output": "UPI is a real-time payment system that allows users to link multiple bank accounts into a single mobile application for seamless fund transfers and merchant payments."
+},
+{
+"instruction": "Can I withdraw cash from my credit card?",
+"input": "",
+"output": "Yes, cash withdrawals are permitted on credit cards up to a specific limit, but they typically attract high interest rates and transaction fees from the date of withdrawal."
+},
+{
+"instruction": "What is the 'Grace Period' in credit cards?",
+"input": "",
+"output": "The grace period is the interest-free duration between a transaction date and the payment due date, applicable only if the previous month's balance was paid in full."
+},
+{
+"instruction": "How do I set a 'Transaction Limit' on my debit card?",
+"input": "",
+"output": "You can set and manage daily limits for ATM, POS, and online transactions via the 'Card Control' section in your mobile banking app as per safety regulations."
+},
+{
+"instruction": "What is a 'Joint Account'?",
+"input": "",
+"output": "A joint account is a bank account held by two or more individuals. It can be operated as 'Either or Survivor', 'Jointly', or other modes as specified at the time of opening."
+},
+{
+"instruction": "What is 'Escrow Account'?",
+"input": "",
+"output": "An escrow account is a temporary account held by a third party on behalf of two other parties who are in the process of completing a transaction, subject to specific conditions."
+},
+{
+"instruction": "How do I redeem my credit card reward points?",
+"input": "",
+"output": "Reward points can be redeemed through the bank's rewards portal or mobile app for various products, vouchers, or statement credit, as per the card's rewards program."
+},
+{
+"instruction": "What is the 'CVV' on my card?",
+"input": "",
+"output": "The Card Verification Value (CVV) is a three-digit security code used for online transactions. You should never share this code with anyone as per security guidelines."
+},
+{
+"instruction": "How do I update my signature in bank records?",
+"input": "",
+"output": "To update your signature, you must visit your home branch in person and submit a request along with a valid identity proof for verification."
+},
+{
+"instruction": "What is 'Electronic Clearing Service' (ECS)?",
+"input": "",
+"output": "ECS is an electronic mode of payment or receipt for repetitive and periodic transactions like utility bills, insurance premiums, and loan EMIs."
+},
+{
+"instruction": "What are the rules for 'Cash Handling Charges'?",
+"input": "",
+"output": "Cash handling charges may apply to deposits and withdrawals exceeding a certain frequency or volume per month, as per the bank's schedule of service charges."
+},
+{
+"instruction": "Can I use my mobile app to withdraw cash from an ATM?",
+"input": "",
+"output": "Yes, many ATMs support 'Cardless Cash' withdrawals where you can initiate the request through your mobile app and use an OTP to withdraw cash."
+},
+{
+"instruction": "What is 'Standard Asset' in banking?",
+"input": "",
+"output": "A standard asset is a loan account where the borrower makes regular and timely repayments without any defaults, as per the agreed schedule."
+},
+{
+"instruction": "What is an 'NPA' (Non-Performing Asset)?",
+"input": "",
+"output": "An NPA is a loan or advance for which the principal or interest payment remains overdue for a period of 90 days or more, as per regulatory classification."
+},
+{
+"instruction": "How do I apply for a duplicate passbook?",
+"input": "",
+"output": "A duplicate passbook can be issued by the home branch upon submission of a written request and payment of the applicable service charge."
+},
+{
+"instruction": "What is 'Surviving Beneficiary' clause?",
+"input": "",
+"output": "This clause ensures that in the event of the death of one account holder in a joint account, the balance is payable to the surviving account holder(s)."
+},
+{
+"instruction": "How do I close a Recurring Deposit?",
+"input": "",
+"output": "RD accounts can be closed upon maturity or prematurely through digital banking or by visiting a branch, subject to applicable interest adjustments for early closure."
+},
+{
+"instruction": "What is 'LTV' (Loan to Value) ratio?",
+"input": "",
+"output": "LTV ratio is the proportion of the property or asset value that the bank is willing to finance, with the remainder being the borrower's contribution."
+},
+{
+"instruction": "Can I transfer funds to a foreign country?",
+"input": "",
+"output": "Outward remittances are permitted for specific purposes such as education or medical treatment, subject to the limits and documentation required under FEMA regulations."
+},
+{
+"instruction": "What is 'Quick Response' (QR) code payment?",
+"input": "",
+"output": "QR code payment is a contactless method where you scan a merchant's code using a mobile app to initiate an instant fund transfer via UPI or card."
+},
+{
+"instruction": "What is 'One Time Password' (OTP) safety?",
+"input": "",
+"output": "An OTP is a unique, time-sensitive code for transaction security. The bank never asks for your OTP over the phone, and you should never share it with anyone."
+},
+{
+"instruction": "How do I apply for a Government-sponsored loan scheme?",
+"input": "",
+"output": "Applications for such schemes can be made through the bank as per the specific eligibility and documentation guidelines issued by the government and regulator."
+},
+{
+"instruction": "What is 'Auto-Debit' failure?",
+"input": "",
+"output": "Auto-debit failure occurs when a scheduled payment cannot be processed due to insufficient funds or technical issues, which may lead to charges as per bank policy."
+},
+{
+"instruction": "What is the 'Card Network'?",
+"input": "",
+"output": "A card network is a system (like Visa, Mastercard, or RuPay) that facilitates the processing and settlement of card transactions between banks and merchants."
+},
+{
+"instruction": "How can I check my credit card statement?",
+"input": "",
+"output": "Monthly credit card statements are sent to your registered email. You can also view current and past statements through the mobile banking app."
+},
+{
+"instruction": "What is 'Electronic Fund Transfer' (EFT)?",
+"input": "",
+"output": "EFT is the digital transfer of money from one bank account to another, either within the same bank or across different banks, using systems like NEFT or IMPS."
+},
+{
+"instruction": "What is 'In-Principle Approval'?",
+"input": "",
+"output": "An in-principle approval is an initial indication of loan eligibility based on the information provided, subject to detailed verification and final sanction."
+},
+{
+"instruction": "How do I reactivate a blocked debit card?",
+"input": "",
+"output": "If a card was blocked for security reasons, you may need to visit a branch or use the app to unblock it, depending on the reason for the block."
+},
+{
+"instruction": "What is 'Chargeback'?",
+"input": "",
+"output": "Chargeback is a process where a customer disputes a transaction and requests the bank to reverse the payment due to reasons like non-delivery or fraud."
+},
+{
+"instruction": "Can I get a loan for purchasing land?",
+"input": "",
+"output": "Yes, land or plot purchase loans are available for residential purposes, subject to the bank's lending criteria and property-related legal clearances."
+},
+{
+"instruction": "What is 'Compound Interest' in deposits?",
+"input": "",
+"output": "Compound interest is interest calculated on the initial principal and also on the accumulated interest of previous periods, as per the frequency defined for the deposit."
+},
+{
+"instruction": "What is a 'Demand Draft' (DD)?",
+"input": "",
+"output": "A DD is a pre-paid negotiable instrument used to make payments. It is considered more secure than a cheque as the funds are already debited at the time of issue."
+},
+{
+"instruction": "What are the rules for 'Multi-City Cheques'?",
+"input": "",
+"output": "Multi-city cheques can be cleared at par at any branch of the bank across the country, as per the terms of the specific account type."
+},
+{
+"instruction": "How do I update my GSTIN in bank records?",
+"input": "",
+"output": "Business customers can update their GSTIN by providing the GST certificate to their branch or through the business banking portal for tax compliance purposes."
+},
+{
+"instruction": "What is 'Immediate Payment Service' (IMPS)?",
+"input": "",
+"output": "IMPS is an instant inter-bank electronic fund transfer service available 24/7 through mobile phones and other digital channels."
+},
+{
+"instruction": "What is a 'Zero Balance Account'?",
+"input": "",
+"output": "A zero balance account is a type of savings account where the customer is not required to maintain a minimum average balance, subject to eligibility criteria."
+},
+{
+"instruction": "How do I lodge a complaint about an ATM withdrawal failure?",
+"input": "",
+"output": "You should note the ATM ID, time, and location, and lodge a complaint through the customer service portal or the home branch for reconciliation."
+},
+{
+"instruction": "What is 'Account Portability'?",
+"input": "",
+"output": "Account portability allows a customer to move their existing account from one branch to another within the same bank without changing the account number."
+},
+{
+"instruction": "What is 'Revolving Credit'?",
+"input": "",
+"output": "Revolving credit is a credit line that can be used repeatedly up to a certain limit as long as payments are made, common in credit cards and overdrafts."
+},
+{
+"instruction": "How can I request a balance confirmation certificate?",
+"input": "",
+"output": "You can request a balance confirmation certificate from your home branch for a specific date, which is often used for auditing or visa application purposes."
+},
+{
+"instruction": "What is 'Safe Custody' service?",
+"input": "",
+"output": "Safe custody is a service where the bank holds valuable documents or articles on behalf of the customer for a fee, as per internal policy."
+},
+{
+"instruction": "What is 'NACH' (National Automated Clearing House)?",
+"input": "",
+"output": "NACH is a centralized system for high-volume electronic transactions that are repetitive in nature, such as subsidies, dividends, and EMI collections."
+},
+{
+"instruction": "What is 'Financial Inclusion'?",
+"input": "",
+"output": "Financial inclusion refers to the bank's efforts to provide affordable financial services to all sections of society, as per regulatory and government mandates."
+},
+{
+"instruction": "Can I link my insurance policy to my bank account?",
+"input": "",
+"output": "Yes, you can register a mandate for automatic premium payments from your account to ensure your insurance coverage remains active."
+},
+{
+"instruction": "What is 'SMS Banking'?",
+"input": "",
+"output": "SMS banking allows customers to perform basic banking tasks like balance inquiry and mini-statements by sending a formatted text message from their registered mobile."
+},
+{
+"instruction": "How do I stop receiving promotional calls?",
+"input": "",
+"output": "You can register for the 'Do Not Disturb' (DND) service through your telecom provider or update your communication preferences in the bank's settings."
+},
+{
+"instruction": "What is 'E-Mandate'?",
+"input": "",
+"output": "An e-mandate is a digital authorization given by a customer to a merchant or bank to automatically debit their account for recurring payments."
+},
+{
+"instruction": "What is 'Pre-closure' vs 'Foreclosure'?",
+"input": "",
+"output": "Pre-closure typically refers to paying off a loan before its tenure ends, while foreclosure specifically denotes the full and final settlement of the loan to close the account."
+},
+{
+"instruction": "How do I know if I am eligible for a home loan?",
+"input": "",
+"output": "Home loan eligibility is assessed based on income stability, credit profile, age, existing liabilities, and property details. Final approval is subject to internal credit appraisal and applicable regulatory guidelines."
+},
+{
+"instruction": "Can you explain how my EMI amount is structured?",
+"input": "",
+"output": "An EMI consists of two components: principal repayment and interest. In the initial stages of the loan, the interest component is typically higher, and it gradually reduces as the outstanding principal decreases."
+},
+{
+"instruction": "I want details about the interest applicable to my loan.",
+"input": "",
+"output": "Interest applicability depends on your loan type, rate structure, and sanction terms. For specific account-related details, please refer to your loan agreement or contact official customer support channels."
+},
+{
+"instruction": "How can I get a copy of my loan sanction letter?",
+"input": "",
+"output": "A copy of your loan sanction letter can be downloaded from the digital banking portal or requested from your home branch, subject to authentication and verification procedures."
+},
+{
+"instruction": "What should I do if my EMI auto-debit did not happen?",
+"input": "",
+"output": "If auto-debit fails, please ensure sufficient balance in your linked account and initiate a manual payment at the earliest. Continued non-payment may attract charges as per the loan agreement."
+},
+{
+"instruction": "Is there any charge for closing my loan early?",
+"input": "",
+"output": "Pre-closure charges, if applicable, depend on the type of loan and interest rate structure. Please refer to the terms mentioned in your loan agreement for accurate information."
+},
+{
+"instruction": "How can I download my account statement online?",
+"input": "",
+"output": "You can download your account statement by logging into internet banking or the mobile application and selecting the desired date range under the statements section."
+},
+{
+"instruction": "What happens if I share my OTP with someone?",
+"input": "",
+"output": "Sharing your OTP can lead to unauthorized transactions. The bank does not request OTPs over calls or messages. If you have shared your OTP inadvertently, report the incident immediately through official support channels."
+},
+{
+"instruction": "Can I apply for multiple loans at the same time?",
+"input": "",
+"output": "Applying for multiple loans simultaneously may impact your credit profile and eligibility assessment. Each application is evaluated independently based on internal risk policies."
+},
+{
+"instruction": "How is my creditworthiness evaluated by the bank?",
+"input": "",
+"output": "Creditworthiness is evaluated using factors such as repayment history, income stability, existing obligations, and credit bureau reports, in line with internal lending standards."
+},
+{
+"instruction": "What should I do if I notice an unfamiliar charge on my statement?",
+"input": "",
+"output": "If you observe an unfamiliar transaction, please report it immediately through the customer service helpline or mobile app. The bank will investigate the matter as per regulatory dispute resolution procedures."
+},
+{
+"instruction": "Can you provide investment advice for stock trading?",
+"input": "",
+"output": "I am designed to assist with banking and financial service queries only. For investment advice, please consult a qualified financial advisor or the relevant investment services team."
+},{
+"instruction": "Explain debt restructuring in banking.",
+"input": "",
+"output": "Debt restructuring refers to the modification of existing loan repayment terms, such as tenure, installment amount, or repayment schedule, to support a borrower facing financial difficulty. Such restructuring is subject to the bank’s internal policies and applicable regulatory guidelines."
+},
+{
+"instruction": "What is loan rescheduling?",
+"input": "",
+"output": "Loan rescheduling involves revising the repayment timeline of a loan without necessarily changing the principal amount. This adjustment is made in accordance with the bank’s policy and regulatory framework."
+},
+{
+"instruction": "What is a loan moratorium?",
+"input": "",
+"output": "A loan moratorium is a temporary deferment of EMI payments granted under specific conditions. Interest treatment during the moratorium period is governed by the loan agreement and applicable regulatory directives."
+},
+{
+"instruction": "What is restructuring of a stressed asset?",
+"input": "",
+"output": "Restructuring of a stressed asset refers to modifying the repayment terms of a loan account experiencing repayment challenges. Such measures are implemented as per regulatory norms and internal risk assessment policies."
+},
+{
+"instruction": "What is settlement of a loan account?",
+"input": "",
+"output": "Loan settlement refers to the closure of a loan account upon payment of dues as agreed between the borrower and the bank. Settlement terms are subject to internal approval processes and regulatory compliance."
+},
+{
+"instruction": "What is technical write-off?",
+"input": "",
+"output": "A technical write-off occurs when a bank removes a loan account from its active balance sheet for accounting purposes while continuing recovery efforts as per regulatory guidelines."
+},
+{
+"instruction": "What is a secured loan?",
+"input": "",
+"output": "A secured loan is a credit facility backed by collateral such as property or other assets. In case of default, the bank may enforce security rights in accordance with applicable laws and contractual terms."
+},
+{
+"instruction": "What is collateral in banking?",
+"input": "",
+"output": "Collateral refers to an asset pledged by a borrower to secure a loan. The bank may claim this asset in case of repayment default, subject to legal and regulatory procedures."
+},
+{
+"instruction": "What is loan refinancing?",
+"input": "",
+"output": "Loan refinancing involves replacing an existing loan with a new loan, typically with revised terms. Such arrangements are subject to eligibility assessment and internal policy approval."
+},
+{
+"instruction": "What is credit appraisal?",
+"input": "",
+"output": "Credit appraisal is the evaluation process conducted by a bank to assess a borrower’s repayment capacity, financial stability, and credit history before approving a loan."
+},
+{
+"instruction": "What is risk-based pricing in loans?",
+"input": "",
+"output": "Risk-based pricing refers to determining loan interest rates based on the borrower’s credit profile and risk assessment. The pricing structure follows internal policies and regulatory guidelines."
+},
+{
+"instruction": "What is a sanction letter?",
+"input": "",
+"output": "A sanction letter is an official document issued by the bank outlining the approved loan amount, applicable terms, and conditions. The borrower must review and accept the terms before disbursement."
+},
+{
+"instruction": "What is loan disbursement?",
+"input": "",
+"output": "Loan disbursement refers to the release of the sanctioned loan amount to the borrower or designated beneficiary, subject to fulfillment of pre-disbursement conditions."
+},
+{
+"instruction": "What is a credit bureau report?",
+"input": "",
+"output": "A credit bureau report is a detailed record of an individual’s borrowing history and repayment behavior. Banks use this report as part of their credit evaluation process."
+},
+{
+"instruction": "What is a co-applicant in a loan?",
+"input": "",
+"output": "A co-applicant is an individual who jointly applies for a loan and shares equal responsibility for repayment. The eligibility assessment includes the financial profile of all applicants."
+},
+{
+"instruction": "What is loan-to-income ratio?",
+"input": "",
+"output": "Loan-to-income ratio represents the proportion of a borrower’s income committed toward loan repayment obligations. It is used during credit appraisal to assess repayment capacity."
+},
+{
+"instruction": "What is a repayment holiday?",
+"input": "",
+"output": "A repayment holiday is a temporary pause in scheduled loan repayments granted under specific conditions. The impact on interest accrual is governed by the loan agreement."
+},
+{
+"instruction": "What is credit risk assessment?",
+"input": "",
+"output": "Credit risk assessment is the process of evaluating the likelihood of a borrower defaulting on repayment obligations. This evaluation is conducted using internal scoring models and regulatory guidelines."
+},
+{
+"instruction": "What is loan restructuring framework under regulatory norms?",
+"input": "",
+"output": "Loan restructuring frameworks provide structured guidelines for modifying repayment terms of eligible borrowers facing financial stress. These frameworks are implemented in accordance with regulatory directives."
+},
+{
+"instruction": "What is recovery process for defaulted loans?",
+"input": "",
+"output": "The recovery process for defaulted loans involves structured follow-up, legal action where necessary, and enforcement of security, all carried out in accordance with applicable laws and regulatory standards."
+}
+]

@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# HuggingFace / cache
+.cache/
+hf_cache/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large model files
+*.bin
+*.safetensors
+# Training artifacts / checkpoints
+fine_tuned_model/checkpoint-*/
+fine_tuned_model/*.pt
+fine_tuned_model/*.pth
+fine_tuned_model/trainer_state.json
+
+# HuggingFace datasets cache
+data/training_dataset/
+
+# NumPy / FAISS artifacts (optional but recommended)
+models/*.faiss
+models/*.npy

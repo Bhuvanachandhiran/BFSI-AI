@@ -1,0 +1,36 @@
+EMI CALCULATION AND AMORTIZATION REGULATORY FRAMEWORK
+
+1. Definition
+
+The EMI Calculation and Amortization Regulatory Framework defines the methodology used to compute Equated Monthly Installments (EMIs) for credit facilities. The EMI Calculation and Amortization Regulatory Framework ensures transparency, uniformity, and compliance with disclosure requirements.
+
+2. Regulatory Framework
+
+Under the EMI Calculation and Amortization Regulatory Framework, the installment amount is determined using a standardized amortization formula based on principal amount, applicable interest rate, and loan tenure.
+
+The regulatory framework mandates that borrowers receive a detailed amortization schedule outlining principal and interest components over the repayment period.
+
+3. Interest Computation Methodology
+
+The EMI Calculation and Amortization Regulatory Framework typically applies the reducing balance method. Under this approach, interest is calculated on the outstanding principal after each installment payment.
+
+Any deviation from the prescribed interest computation methodology must comply with regulatory framework requirements and internal policy guidelines.
+
+4. Disclosure and Compliance Requirements
+
+The EMI Calculation and Amortization Regulatory Framework requires clear disclosure of:
+
+- Interest rate structure
+- Benchmark linkage
+- Reset frequency
+- Total repayment obligation
+
+Compliance requirements mandate that institutions provide transparency regarding floating and fixed interest structures.
+
+5. Monitoring and Supervisory Reporting
+
+The EMI Calculation and Amortization Regulatory Framework requires periodic review of interest rate adjustments and system accuracy. Supervisory reporting ensures compliance with disclosure norms and consumer protection guidelines.
+
+6. Risk Management Implications
+
+Accurate implementation of the EMI Calculation and Amortization Regulatory Framework is critical for operational risk management. Errors in amortization calculations may impact revenue recognition and regulatory compliance.

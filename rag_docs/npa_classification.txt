@@ -1,0 +1,43 @@
+INTERNAL COMPLIANCE MANUAL: ADHERENCE TO REGULATORY STANDARDS
+1. Definition and Scope
+The term Classification and Provisioning of Non-Performing Assets refers to the systematic process by which the institution identifies, categorizes, and accounts for credit exposures that have ceased to generate income or where the recovery of the principal or interest is deemed uncertain. This process is integral to maintaining the financial health of the entity and ensures that the valuation of the loan portfolio reflects the underlying credit risk accurately. All activities related to the Classification and Provisioning of Non-Performing Assets must be conducted in strict alignment with the established regulatory framework and internal policy guidelines.
+
+2. Regulatory Framework
+The regulatory framework governing the Classification and Provisioning of Non-Performing Assets is established to ensure systemic stability across the financial sector. This framework mandates that institutions adopt a standardized approach to identifying credit impairment, thereby preventing the overstatement of income and ensuring that adequate capital buffers are maintained. Adherence to this regulatory framework is mandatory for all credit-granting departments. The objective of the Classification and Provisioning of Non-Performing Assets within this regulatory framework is to provide a uniform yardstick for assessing the quality of the credit portfolio across diverse asset classes.
+
+3. Classification Structure and Asset Categories
+Under the prudential norms issued by the relevant authorities, the Classification and Provisioning of Non-Performing Assets involves a tiered structure based on the duration of the default and the perceived recoverability of the dues.
+
+Standard Assets: These are credit facilities that do not disclose any problems and which do not carry more than the normal risk attached to the business.
+
+Sub-Standard Assets: Assets classified as non-performing for a period less than or equal to a specified duration. In these cases, the current net worth of the borrower or the collateral value is not sufficient to ensure recovery of the dues in full.
+
+Doubtful Assets: An asset is categorized as doubtful if it has remained in the sub-standard category for a specific period. These assets exhibit all the weaknesses inherent in sub-standard assets with the added characteristic that the weaknesses make collection or liquidation in full highly improbable.
+
+Loss Assets: These represent assets where the loss has been identified by the institution, internal or external auditors, or through supervisory inspection, but the amount has not been written off fully.
+
+The Classification and Provisioning of Non-Performing Assets requires that once an asset is identified as non-performing, its classification must be downgraded sequentially unless specific conditions for restoration are met under the prudential norms.
+
+4. Provisioning Norms and Compliance Requirements
+Compliance requirements dictate that the institution must set aside a portion of its earnings as a provision against potential losses arising from credit defaults. The provisioning norms are determined by the category of the asset and the availability of tangible security.
+
+The Classification and Provisioning of Non-Performing Assets requires higher provisioning percentages as the seniority of the default increases. For unsecured exposures, the provisioning norms are significantly more stringent to reflect the higher risk of loss. The institution must ensure that the aggregate provisions held at any time are consistent with the compliance requirements stipulated in the regulatory framework, ensuring that the balance sheet presents a true and fair view of the asset classification.
+
+5. Reporting and Monitoring Mechanisms
+Continuous monitoring is essential for the effective Classification and Provisioning of Non-Performing Assets. The institution shall maintain a robust management information system (MIS) to track the health of the loan portfolio. Supervisory reporting must be conducted at regular intervals to provide the regulators with a comprehensive overview of the non-performing increments and the adequacy of the provisions held.
+
+Any deviations from the prescribed internal policy guidelines regarding the Classification and Provisioning of Non-Performing Assets must be documented and reported to the Risk Management Committee. The accuracy of supervisory reporting is a critical component of the institution's transparency and regulatory standing.
+
+6. Risk Management Implications
+The Classification and Provisioning of Non-Performing Assets serves as a vital tool for risk management. By identifying deteriorating credit quality early, the institution can initiate recovery proceedings or restructuring as permitted under the regulatory framework. Risk management strategies must incorporate the data derived from asset classification to adjust credit appetite and pricing models. The impact of provisioning norms on the institution's Capital Adequacy Ratio (CAR) necessitates a proactive approach to credit monitoring to minimize the transition of standard assets into non-performing categories.
+
+7. Supervisory Oversight and Audit
+Supervisory oversight involves periodic inspections by regulatory authorities to verify the institution's adherence to the Classification and Provisioning of Non-Performing Assets guidelines. During these inspections, the regulators assess whether the internal policy guidelines are robust and if the asset classification has been performed objectively.
+
+Failure to comply with the prudential norms or inaccuracies in the Classification and Provisioning of Non-Performing Assets may lead to supervisory actions, including the imposition of penalties or additional capital requirements. Internal and external auditors are required to certify that the provisioning norms applied are in accordance with the prevailing regulatory framework.
+
+Document Status: Final
+
+Approval Authority: Board Risk Committee
+
+Regulatory Alignment: Standardized Prudential Guidelines
